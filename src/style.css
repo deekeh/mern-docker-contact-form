@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap");
+* {
+  font-family: "Bree Serif", serif;
+  font-size: 1.1rem;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+}
+
+/* Contact form */
+.min-h-100 {
+  min-height: 90vh;
+}
