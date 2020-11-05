@@ -1,0 +1,3 @@
+DB_URL='mongodb://<username>:<password>@<hostname>:<portnumber>/'
+DB_USER=<username>
+DB_PASS=<password>
